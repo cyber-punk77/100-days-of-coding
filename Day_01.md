@@ -2,8 +2,11 @@
 
 ✅ What I did:
 - Learned about variables and data types in Python
+- learned numerate and innumarate data type
 - Practiced with basic input/output
-- Did 30 mins of Python on freeCodeCamp
+- watched simple youtube video about data type
+  
+
 
 🚀 Thoughts:
 - Feels good to start! Looking forward to loops tomorrow.
